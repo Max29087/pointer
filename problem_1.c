@@ -10,4 +10,4 @@ int main()
     printf("Value of X= %d\n", *ptr);
     printf("Location of pointer= %u\n", &ptr);
     return 0;
-}
+} 
